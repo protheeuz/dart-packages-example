@@ -1,7 +1,7 @@
 import 'package:belajar_packages/hello.dart';
 
 void main() {
-  print(sayHello('Eko'));
+  print(sayHello('Iqbal'));
 
   var customer = Customer('Naswan');
   var product = Product('iPhone');
